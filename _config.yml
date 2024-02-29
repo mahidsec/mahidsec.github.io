@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Dhaka
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: mahidsec # the main title
 
-tagline: fish at 127.0.0.1 # it will display as the sub-title
+tagline: ​🇸​​🇪​​🇨​​🇺​​🇷​​🇮​​🇹​​🇾​-​🇷​​🇪​​🇸​​🇪​​🇦​​🇷​​🇨​​🇭​​🇪​​🇷​, ​🇪​​🇽​​🇵​​🇱​​🇴​​🇷​​🇪​​🇷​​ # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  how to decode binary, How to use r2, How to use radare2, Reverse Engineering for Begainers, Reverse Engineering 101,
+  how to decode binary,How to use r2,How to use radare2,Reverse Engineering for Begainers,Reverse Engineering 101,Mahid Alam,mahidsec
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Mahid Alam
+  name: mahidsec
   email: hello@mahidsec.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -66,7 +66,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: [dark] # [light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
