@@ -1,0 +1,47 @@
+---
+title: Is this working?
+author: mahidsec
+date: 2024-02-29 20:57 +0600
+categories: [reverse-engineering, r2]
+tags: [r2, reverse-engineering, radare2]
+pin: true
+# templete: post
+---
+
+# Is this working?
+
+Yes this is working absolutely fine.
+
+> Here is a quote for you.
+
+```python
+print("Hello World")
+```
+
+## order list
+
+1. burger
+2. pizza
+3. lemonade
+4. mango
+
+## unorder list
+
+- Start
+  - nothing
+    - might be somethinf
+      - still nothing
+        - bad luck
+
+![dancing cat](https://64.media.tumblr.com/b0b2bee6118598d0343f0328cb97a5ee/tumblr_muz164vjYT1slwpo8o1_250.gifv)
+_this is dancing cat_
+
+## TODO list
+
+- [ ] Hello is not checked
+  - [x] this is checked
+  - [x] this is also checked
+  - [ ] but this is not checked
+
+> An example showing the `danger` type prompt.
+{: .prompt-danger }
