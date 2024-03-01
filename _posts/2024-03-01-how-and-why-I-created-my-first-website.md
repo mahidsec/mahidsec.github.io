@@ -21,7 +21,7 @@ There are too many ways to build a website.
  - Static
 
 ### Dynamic
-Web pages that change according to the user who was using it based on their credentials are called `**dynamic**` websites. Building a dynamic website is time-consuming and needs a lot of afford to maintain.
+Web pages that change according to the user who was using it based on their credentials are called **`dynamic`** websites. Building a dynamic website is time-consuming and needs a lot of afford to maintain.
 
 ### Static
 When a Website appears the same for every user who accesses it, is a **`static`** website. This type of website is easy to build and maintain.
