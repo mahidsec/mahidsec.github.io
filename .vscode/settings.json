@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": false,
+  "grammarly.selectors": [
+    {
+      "language": "markdown",
+      "scheme": "file",
+      "pattern": "_posts/2024-03-01-how-and-why-i-created-my-first-website.md"
+    }
+  ]
+}
