@@ -2,9 +2,9 @@
 title: Why and How I created my first website.
 date: 2024-03-01 10:03 +0600
 author: mahidsec
-categories: [website 101]
+categories: [website, Website 101]
 tags: [jekyll, github page, static site]
-pin: true
+# pin: true
 # image:
 #     path: assets\images\Screenshot_2024-03-01_03-59-39.png
 #     alt: A screenshot of the web page.
