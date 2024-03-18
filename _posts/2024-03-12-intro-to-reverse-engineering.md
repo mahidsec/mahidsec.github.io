@@ -32,8 +32,9 @@ We can't read complex binary and computers can't read our simplest programs.
 We need a middleman who can understand both. **[Compiler](https://en.wikipedia.org/wiki/Compiler)** and **[Interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing))** are the middlemen who can translate our codes into **machine code**. By the term **`machine code`**, we refer to **[Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)**.
 
 ## Behind the scenes.
-when we compile our program to run on a machine it actually compiles our codes to machine codes.
-![graph.png](https://i.postimg.cc/1XyWnQS0/Your-paragraph-text.png){: width='500'}
+when we compile our program to run on a machine it actually compiles our codes to machine codes. Here is a simple diagram that shows how it's done.
+![graph.png](https://i.postimg.cc/T1NkgLjB/Your-paragraph-text-1.png){: width='500'}
+_Diagram Image ©️mahidsec_
 
 ## Everything is open-source if you know Assembly.
 If everything is compiled into machine code, we can reverse-engineer the program and eventually get the whole program source code. Although this code is not the original code but it does the same thing. In the next blog, we'll learn more about the process of **reverse engineering**.
